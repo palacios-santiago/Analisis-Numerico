@@ -2,7 +2,7 @@
 #--Trabajo realizado por:
 # Monica A. Alvarez C.
 # Santiago Palacios L.
-#   Metodo de Horner.
+#   Metodo de Horner con numeros complejos y derivadas.
 
 
 HornerDer <- function(coeficientes, x0) {

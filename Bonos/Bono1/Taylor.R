@@ -1,3 +1,10 @@
+#     *** Analisis Numerico 2020-1 ***
+#--Trabajo realizado por:
+# Monica A. Alvarez C.
+# Santiago Palacios L.
+# Aproximacion a una funcion en un intervalo con el Teorema de Taylor.
+
+
 require(pracma)
 t=seq(-pi/64,pi/64, ((2*(pi/64))/5)) # Solo tienes que cambiar aqui, la cantidad que coloques pues van a ser la de filas de la tabla, pon mas de 10 pero no te pases de verga
 y=sin(t)

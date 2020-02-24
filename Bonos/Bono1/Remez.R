@@ -1,3 +1,9 @@
+#     *** Analisis Numerico 2020-1 ***
+#--Trabajo realizado por:
+# Monica A. Alvarez C.
+# Santiago Palacios L.
+#   Metodo de Remez para la aproximacion a una funcion en un intervalo.
+
 rm(list=ls())
 require(PolynomF)
 Puntos<-function (a,b,n){
