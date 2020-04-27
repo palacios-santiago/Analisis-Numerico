@@ -1,3 +1,9 @@
+#  *** Análisis numérico 2020 - 1 ***
+# Trabajo realizado por:
+#  Mónica A. Álvarez C.
+#  Santiago Palacios L.
+#  Paula C. Piñeros P.
+# Implementacio vectorial de polinomio de Lagrange.
 f <- function( x ) { exp(x) }
 lagrange = function(x,y,a){ 
   n = length(x) 
