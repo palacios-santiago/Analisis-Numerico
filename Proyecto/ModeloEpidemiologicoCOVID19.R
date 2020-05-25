@@ -5,6 +5,14 @@
 # Santiago Palacios L.
 # Paula C. Piñeros P.
 #   Reto 3. Transmisión de COVID 19.
+#################################### 
+#REFERENCIAS:
+#Tomamos la base de datos de: 
+	#https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale
+#Obtuvimos información de:
+	#https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model
+	#https://biblioteca.unirioja.es/tfe_e/TFE002211.pdf
+#########################################
 
 library(shiny)
 library(shinyjs)
